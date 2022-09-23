@@ -1,0 +1,2 @@
+Evaluation of MAE, RMSE and R2 in validation Set: 24.905911, 34.161105 and 0.718593
+Evaluation of MAE, RMSE and R2 in test Set: 24.957596, 33.889250 and 0.717448
